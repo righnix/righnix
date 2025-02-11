@@ -34,7 +34,7 @@
 ### 🔥 **Current Focus**
 - Developing custom pentesting tools in Python.  
 - Automating repetitive tasks with Bash and Python scripts.  
-- Exploring new bypass techniques for captchas and web security analysis.  
+- Exploring new bypass techniques for servers and web security analysis.  
 
 ---
 
