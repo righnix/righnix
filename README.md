@@ -7,7 +7,7 @@
 ```console
 ┌──(virxz-slxw㉿kali)-[~/github]
 └─$ whoami  
-> Backend Developer | Pentester | Hacker 
+> Backend Developer | Pentester | ORG C-A | cybersecurity | Xploits Tools 
 ```
 ---
 
