@@ -13,10 +13,10 @@
 
 ### 🛠️ **Tech Stack & Skills**
 - **Languages:** Python, Bash, SQL  
-- **Frameworks:** Django, Flask, FastAPI  
+- **Frameworks:** Django, Flask, FastAPI and more
 - **Databases:** MariaDB, MySQL, PostgreSQL  
-- **Pentesting Tools:** sqlmap, Burp Suite, Metasploit, Nmap  
-- **Infrastructure:** Docker, Linux (Kali, Debian, Ubuntu), VirtualBox  
+- **Pentesting Tools:** sqlmap, Burp Suite, Metasploit, Nmap, offensive python (own scripts)
+- **Infrastructure:** Docker, Linux (Kali, Arch, Debian, Ubuntu), VirtualBox  
 
 ---
 
