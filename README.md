@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-hero.vercel.app/api?username=righnix&theme=tokyo-dark&font=Code&size=300" alt="Banner" />
-</p>
+![Virxz-Slxw GitHub stats](https://github-readme-stats.vercel.app/api?username=righnix&show_icons=true&bg_color=00000000)
 
 ---
 
@@ -22,16 +20,14 @@
 
 ---
 
-### 📈 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=righnix&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=righnix&layout=compact&theme=radical&hide_border=true)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=righnix&theme=radical&hide_border=true)  
+### 📈 **GitHub Stats**    
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=righnix&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ### ⚔️ **Featured Projects**
-- 🛡️ **[Bypass reCaptcha Tool](https://github.com/your-repo)** – Bypass reCAPTCHA v2 using `requests`.  
-- 🔍 **[Web Scraping System](https://github.com/your-repo)** – Massive data extraction with an automated analysis focus.  
+- 🛡️ **[Bypass reCaptcha Tool](https://github.com/righnix)** – Bypass reCAPTCHA v2 using `requests`.  
+- 🔍 **[Web Scraping System](https://github.com/righnix)** – Massive data extraction with an automated analysis focus.  
 
 ---
 
