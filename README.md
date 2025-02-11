@@ -12,7 +12,7 @@
 ---
 
 ### 🛠️ **Tech Stack & Skills**
-- **Languages:** Python, Bash, SQL  
+- **Languages:** Python, C, C++, Java, JavaScript, PHP, Perl, ruby, Bash, SQL  
 - **Frameworks:** Django, Flask, FastAPI and more
 - **Databases:** MariaDB, MySQL, PostgreSQL  
 - **Pentesting Tools:** sqlmap, Burp Suite, Metasploit, Nmap, offensive python (own scripts)
