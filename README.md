@@ -43,10 +43,6 @@
 
 ---
 
-### 🌟 **Extras**  
-- **Activity Heatmap:**  
-   ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=righnix&theme=github-dark)  
-
 - **Contribution Trophy:**  
    ![Trophy](https://github-profile-trophy.vercel.app/?username=righnix&theme=monokai&column=7)  
 
